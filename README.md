@@ -14,19 +14,22 @@ Once you're done, answer the following questions.
 1. How have you been writing your commit message?
 
 ```
-// Your answer here
+// commit/draft-1/completed
 ```
 
 2. Name three improvements you are committed to after reading the reference links.
 
 ```
-// Your answer here
+// 1) Commit often after completing a working component
+   2) Use Branches and write good commit messages
+   3) Agree on A Workflow
 ```
 
 3. After discussion with your group members, what other insights have you gained about GIT COMMIT best practices (if any).
 
 ```
-// Your answer here
+//  Git commit with precise and descriptive header. For eg. [Fixbug] - Remove something from line 12, [Update] - Change API link
+    Make small commits after completing a working component
 ```
 
 ## Submission Guidelines
